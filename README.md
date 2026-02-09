@@ -40,11 +40,12 @@ A simple and cryptographically secure password generator written in Python.
 
 ```bash
 
-git clone https://github.com/Internalveil/secure-password-generator.git
+git clone https://github.com/shaftydev/secure-password-generator.git
 
 
 
 cd secure-password-generator
+
 
 
 
